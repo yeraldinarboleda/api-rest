@@ -1,0 +1,19 @@
+{
+    "db-connections":{
+        "mongodb":{
+            "host":"cluster0.ijz8u.mongodb.net",
+            "user":"acad_rest_api_user",
+            "password":"9RyYHzmAPZxfQyn",
+            "dbname":"AcademicDB"
+        }
+    },
+    "secretKeys":{
+        "cryptojs":"crxJW@RuDHJ",
+        "jwt":"ABC@2020*"
+    },
+    "roles":{
+       "student":1,
+       "teacher":2 
+    },
+    "server-port":3000
+}
